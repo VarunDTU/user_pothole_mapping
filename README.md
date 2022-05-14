@@ -1,16 +1,12 @@
-# maps
+# User_potholr_mapping
 
-A new Flutter project.
+user_pothole_mapping or mappot for mapping all potholes in roads and display via markers on map
 
 ## Getting Started
+first install flutter(https://docs.flutter.dev/get-started/install)
+run:
+flutter create projectname
+cd projectname
+download code and copy and replace the code inside projectname
+get pubspec.yaml dependencies
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
